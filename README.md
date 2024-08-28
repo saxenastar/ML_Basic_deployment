@@ -4,7 +4,7 @@ ML project deployment with the helloword dataset i.e. iris flower dataset.
 - Anaconda: https://www.anaconda.com/
 - Vs code: https://code.visualstudio.com/download
 - Git: https://git-scm.com/
-
+- Dataset :https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
 
 ## git commands
