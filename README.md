@@ -8,7 +8,8 @@ ML project deployment with the helloword dataset i.e. iris flower dataset.
 
 
 ## git commands
-''' bash
+``` 
+bash
 git clone git_repo_url
 
 git add .
@@ -16,10 +17,10 @@ git add .
 git commit -m "message about the update "
 
 git push origin main
-'''
+```
 
 ## how to run ?
-''' bash
+``` bash
 conda create -n ml_basic python=3.8 -y
 
 conda activate ml_basic
@@ -31,3 +32,4 @@ pip install -r requirements.txt
 this also require setup.py file so first setup )
 
 pip list
+```
