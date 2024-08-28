@@ -8,8 +8,7 @@ ML project deployment with the helloword dataset i.e. iris flower dataset.
 
 
 ## git commands
-``` 
-bash
+``` bash
 git clone git_repo_url
 
 git add .
