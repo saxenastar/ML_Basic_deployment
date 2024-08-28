@@ -27,8 +27,7 @@ conda activate ml_basic
 python template.py 
 
 pip install -r requirements.txt
-(-e . is used in requirements.txt file for to setup own python package but 
-this also require setup.py file so first setup )
+> -e . is used in requirements.txt file for to setup own python package but this also require setup.py file so first setup 
 
 pip list
 ```
